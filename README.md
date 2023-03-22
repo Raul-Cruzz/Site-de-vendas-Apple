@@ -1,5 +1,4 @@
-[ Projeto Online, experimente agora ](https://apple-brasil-br.netlify.app)
-
+[ Projeto Online, experimente agora! ](https://apple-brasil-br.netlify.app)
 <h1 align="center"> Site de Vendas Apple </h1>
 
 <br>
